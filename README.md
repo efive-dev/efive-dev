@@ -16,7 +16,7 @@ When I’m not coding, you’ll probably find me skateboarding around the city.
 
 ## 🌟 Featured Project
 
-### [Quattrini track](https://github.com/efive-dev/Quattrini-track)
+### [Quattrini track](https://github.com/efive-dev/QuattriniTrack)
 
 Personal finance tracker built in Golang.  
 - REST API with authentication  
