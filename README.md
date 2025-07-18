@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 
-**Student at UniFI (University of Florence), Florence, Italy**  
+**Currently pursuing a Bachelor’s Degree in Computer Science – University of Florence (UniFI), Florence, Italy**  
 Driven by curiosity, creativity, and the thrill of learning.  
 When I’m not coding, you’ll probably find me skateboarding around the city.
 
