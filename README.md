@@ -23,6 +23,12 @@ Personal finance tracker built in Golang.
 - Stylish and efficient terminal frontend  
 - Designed for simplicity and speed
 
+### [PianPianino](https://github.com/efive-dev/PianPianino)
+Personal to-do manager built in Golang and Vue.js.
+- REST API with JWT-based authentication
+- Clean and responsive Vue 3 frontend with Naive UI
+- Designed for simplicity and lazy productivity
+
 ## ✨ Goals & Dreams
 
 - One day, I hope to bring my knowledge and good vibes to Perth, Australia.
