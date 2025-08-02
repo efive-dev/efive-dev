@@ -30,7 +30,7 @@ Personal to-do manager built in Golang and Vue.js.
 - Designed for simplicity and lazy productivity
 
 
-### [PianPianino](https://github.com/efive-dev/portfolio)
+### [My personal website](https://github.com/efive-dev/portfolio)
 My personal website written in Vue and Typescript. Check it out at the following [link](https://portfolio-two-ecru-43.vercel.app/)!
 
 ## ✨ Goals & Dreams
