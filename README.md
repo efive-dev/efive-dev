@@ -31,7 +31,7 @@ Personal to-do manager built in Golang and Vue.js.
 
 
 ### [My personal website](https://github.com/efive-dev/portfolio)
-My personal website written in Vue and Typescript. Check it out at the following [link](https://portfolio-two-ecru-43.vercel.app/)!
+My personal website written in Vue and Typescript. Check it out at the following [link](https://efive-dev.vercel.app/)!
 
 ## ✨ Goals & Dreams
 
