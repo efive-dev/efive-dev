@@ -48,4 +48,4 @@ Pomodoro productivity companion built with Java Spring Boot and secured with JWT
 
 ---
 
-> “Aspiring developer with a dream to work in Perth, Australia, passionate about software development and skateboarding.”
+> “Aspiring developer with a passion for software development and skateboarding, eager to grow skills and make an impact in the tech industry.”
