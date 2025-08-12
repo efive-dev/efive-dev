@@ -43,7 +43,7 @@ Pomodoro productivity companion built with Java Spring Boot and secured with JWT
 
 ## ✨ Goals & Dreams
 
-- One day, I hope to bring my knowledge and good vibes to Perth, Australia.
+- One day, I hope to bring my knowledge and good vibes to a vibrant and innovative tech community.
 - Always eager to learn, collaborate, and create meaningful software.
 
 ---
